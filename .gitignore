@@ -1,3 +1,4 @@
 flickr8k/*
 *.pkl
 glove6b50dtxt/*
+model_weights/*
